@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("FizzBuzz")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Commerzbank Group")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FizzBuzz")]
-[assembly: AssemblyCopyright("Copyright © Commerzbank Group 2011")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
